@@ -1,12 +1,10 @@
 ---
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
-layout: home
+layout: home         # 使用首页布局
 ---
+
+# 欢迎来到我的博客！
+
+这里是首页内容，支持 **Markdown** 语法。
 ## 关于我
 
 - 昵称：咸鱼
