@@ -1,5 +1,5 @@
 ---
-layout: home         # 使用首页布局
+layout: home
 ---
 
 **Every dog has his day**
@@ -12,22 +12,7 @@ layout: home         # 使用首页布局
 
 # **学习记录**
 
-1. [2025-03-31-Markdown语法学习](https://myf678444.github.io/_posts/2025-03-31.md)
+1. [Markdown语法学习（2025-03-31）](/2025/03/31/Markdown语法学习.html)
 
 ---
-
-# **English**
-
-1. 待更新
-
----
-
-# **生活随笔**
-
-1. 待更新
-
----
-
-## 联系我
-
-邮箱：myf678444@gmail.com
+（其他部分保持不变）
