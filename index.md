@@ -2,7 +2,6 @@
 layout: home         # 使用首页布局
 ---
 
-# 欢迎来到我的博客！
 
 这里是首页内容，支持 **Markdown** 语法。
 ## 关于我
@@ -14,7 +13,7 @@ layout: home         # 使用首页布局
 
 # **学习记录**
 
-1. [2025-03-31-Markdown语法学习](https://myf678444.github.io/posts/1.md)
+1. [2025-03-31-Markdown语法学习](https://myf678444.github.io/_posts/2025-03-31-1.md)
 
 ---
 
