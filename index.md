@@ -2,8 +2,7 @@
 layout: home         # 使用首页布局
 ---
 
-
-这里是首页内容，支持 **Markdown** 语法。
+**Every dog has his day**
 ## 关于我
 
 - 昵称：咸鱼
