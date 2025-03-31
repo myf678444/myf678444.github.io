@@ -13,7 +13,7 @@ layout: home         # 使用首页布局
 
 # **学习记录**
 
-1. [2025-03-31-Markdown语法学习](https://myf678444.github.io/_posts/2025-03-31-1.md)
+1. [2025-03-31-Markdown语法学习](https://myf678444.github.io/_posts/2025-03-31.md)
 
 ---
 
