@@ -13,7 +13,7 @@ layout: home
 # **学习记录**
 
 1. [2025-03-31-Markdown语法学习](https://myf678444.github.io/2025/03/31/markdown.html)
-
+2.[2025-04-01-linux-jekyll搭建](https://myf678444.github.io/2025/04/01/linux-jekyll.html)
 ---
 
 # **English**
