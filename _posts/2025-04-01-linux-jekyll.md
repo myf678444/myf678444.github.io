@@ -1,7 +1,7 @@
 ---
 layout: post        # 文章布局
 title: "linux-jekyll搭建"
-date: 2025-04-01-linux-jekyll   # 日期必须和文件名一致
+date: 2025-04-01   # 日期必须和文件名一致
 ---
 # 在 Linux 上配置 Jekyll 需要安装 Ruby、Jekyll 和相关依赖
 
