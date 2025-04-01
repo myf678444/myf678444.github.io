@@ -1,5 +1,5 @@
 ---
-layout: home         # 使用首页布局
+layout: home
 ---
 
 **Every dog has his day**
