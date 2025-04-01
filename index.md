@@ -12,7 +12,7 @@ layout: home
 
 # **学习记录**
 
-1. [2025-03-31-Markdown语法学习](https://myf678444.github.io//posts/2025/03/31/markdown.html)
+1. [2025-03-31-Markdown语法学习](https://myf678444.github.io/_posts/2025/03/31/markdown.html)
 
 ---
 
