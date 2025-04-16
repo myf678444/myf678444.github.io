@@ -14,6 +14,7 @@ layout: home
 
 1. [2025-03-31-Markdown语法学习](/2025/03/31/markdown.html)
 2. [2025-04-01-linux-jekyll搭建](2025/04/01/linux-jekyll.html)
+3. [2025-04-12-WSL-ubuntu配置](2025/04/12/WSL.html)
 ---
 
 # **English**
